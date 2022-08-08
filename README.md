@@ -1,2 +1,2 @@
-# Assignment1-Kickstarter
-Assignment 1 analysis of kickstarter dataset
+# Kickstarter Analysis
+analysis of kickstarter dataset
